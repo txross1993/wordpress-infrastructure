@@ -1,0 +1,9 @@
+# vscode
+.vscode
+.vscode/
+
+# terraform
+*.terraform*
+*.tfstate*
+*.tfvars*
+account.json
